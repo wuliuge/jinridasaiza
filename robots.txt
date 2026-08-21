@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wuliuge.github.io/jinridasaiza/sitemap.xml
